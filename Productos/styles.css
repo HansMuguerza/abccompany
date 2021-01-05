@@ -766,3 +766,19 @@ body{
   font-size: 12px;
   margin: 0 50px;
 }
+
+.creado-por h6 {
+	margin: 0;
+  font-weight: 400;
+	font-size: 12px;
+}
+
+.creado-por a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.creado-por a:hover {
+  text-decoration: underline;
+  color: #B5FFFF;
+}
